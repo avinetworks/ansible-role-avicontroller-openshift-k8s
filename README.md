@@ -70,7 +70,7 @@ When running. `gather_facts` needs to be set to `false`, failure to do so will c
 
 ## License
 
-BSD
+Apache 2.0
 
 ## Author Information
 
